@@ -1,0 +1,2571 @@
+A cricketer's average in his first 20 innings was 15 runs per innings. After a further 10 innings, his average had increased to 17 runs per innings. What was his average for the last 10 innings?
+
+=
+A.
+19 runs  
+
+
+B.
+18 runs  
+
+
+C.
+17 runs 
+
+
+D.
+20 runs 
+
+
+E.
+21 runs 
+
+The correct answer is option [E] His average was 21 runs per innings
+
+
+
+The main petroleum producing countries in Africa are ---------------
+
+=
+A.
+Nigeria and Togo  
+
+
+B.
+Nigeria and Libya  
+
+
+C.
+Zaire and Algeria 
+
+
+D.
+Tunisia and South Africa 
+
+
+E.
+none of the above 
+
+The correct answer is [B]
+
+
+Complete the series, 144, 121, 100, ____, 64, 49
+
+=
+A.
+99  
+
+
+B.
+91  
+
+
+C.
+89 
+
+
+D.
+81 
+
+
+E.
+79 
+
+The correct answer is option [D] The terms are merely the squares of integers starting with 12 in descending order. Thus, 122 = 12 x 12 = 144; 112 = 11 x 11 = 121; 102 = 10 x 10 = 100; 92 = 9 x 9 = 81; 82 = 8 x 8 = 64; 72 = 7 x 7 = 49; Alternatively, the differences between consecutive terms form the following simple sequence: 23, 21, 19, 17, 15.
+
+
+Daniel has the same number of brothers as sisters. His sister, Laura has twice as many brothers as she has sisters. How many boys and girls are in the family?
+
+=
+A.
+3 boys and 3 girls.  
+
+
+B.
+4 boys and 3 girls.  
+
+
+C.
+3 boys and 4 girls. 
+
+
+D.
+2 boys and 3 girls. 
+
+
+E.
+None of the above 
+
+The correct answer is option [B]
+
+
+If Ojo faces the North and spreads out his hands, what direction would his right hand point to?
+
+=
+A.
+South  
+
+
+B.
+West  
+
+
+C.
+East 
+
+
+D.
+North 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+At a recent visit to the reptile house at the local zoo, I counted a total of 27 heads and 70 feet. I was counting snakes, lizards and people and I know that there were exactly twice as many lizards as people. How many snakes did I count?
+
+=
+A.
+7 snakes: 7 people and 14 lizards  
+
+
+B.
+6 snakes: 8 people and 15 lizards  
+
+
+C.
+6 snakes: 7 people and 14 lizards 
+
+
+D.
+5 snakes: 9 people and 11 lizards 
+
+
+E.
+6 snakes: 5 people and 16 lizards 
+
+The correct answer is option [C]
+
+
+A snail creeps 9 ft up a wall during the daytime. After all the labor it does throughout the day, it stops to rest a while... but falls asleep!! The next morning it wakes up and discovers that it has slipped down 5 ft while sleeping. If this happens every day, how many days will the snail take to reach the top of a wall 17ft in height?
+
+=
+A.
+5 days  
+
+
+B.
+4 days  
+
+
+C.
+3 days 
+
+
+D.
+2 days 
+
+
+E.
+1 day 
+
+The correct answer is option [C] Solution: On the first day, the snail climbs up 9 ft and slips down 5 ft while sleeping. So, next morning, it is 4 ft from where it started. The snail thus travels 4 ft upwards every day. Therefore, in 2 days, it has traveled a distance of 8 ft from the bottom. Here lies the catch to the problem! On the last day, the snail travels 9 ft upwards and hence reaches the top of the wall in a total of 3 days. 
+
+Which vowel comes midway between J and T?
+
+=
+A.
+A  
+
+
+B.
+E  
+
+
+C.
+I 
+
+
+D.
+O 
+
+
+E.
+U 
+
+The correct answer is option [D] JKLMN - O - PQRST
+
+
+14,500 people are sitting in a stadium. One of them is picked out. What are the chances that the person's birthday is on a Sunday?
+
+=
+A.
+1/14,500  
+
+
+B.
+1/7  
+
+
+C.
+7/14,500 
+
+
+D.
+1/14,501 
+
+
+E.
+None of the above 
+
+The correct answer is option [B] 1/7. The amount of people in the crowd is irrelevant.
+
+
+If two typist can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes?
+
+=
+A.
+3  
+
+
+B.
+4  
+
+
+C.
+6 
+
+
+D.
+12 
+
+
+E.
+36 
+
+The correct answer is option [C] One typist types one page in two minutes.
+
+
+The proportion of milk and water in 3 samples is 2:1, 3:2 and 5:3. A mixture comprising of equal quantities of all 3 samples is made. The proportion of milk and water in the mixture is ...............
+
+=
+A.
+2 : 1  
+
+
+B.
+5 : 1  
+
+
+C.
+99 : 61 
+
+
+D.
+227 : 133 
+
+
+E.
+4 : 5 
+
+The correct answer is option [D]
+
+
+Mr. Brown has 8 black gloves and 12 brown gloves in his closet. He blindly picks up some gloves from the closet. What is the minimum number of gloves Mr. Brown will have to pick to be certain to find a pair of gloves of the same color?
+
+=
+A.
+3  
+
+
+B.
+4  
+
+
+C.
+5 
+
+
+D.
+6 
+
+
+E.
+7 
+
+The correct answer is option [A]
+
+At the local nursery school, I was chatting with my daughter's friends and noticed a number of things. Joy has mousey coloured hair and the girl with black hair was wearing a green dress. Tina is not blonde and Sharon does not have brown hair, Emma was wearing a blue dress. The blonde girl was not wearing red and Sharon was not wearing green. Who was wearing a red dress?
+
+=
+A.
+Joy  
+
+
+B.
+Tina  
+
+
+C.
+Sharon 
+
+
+D.
+Emma 
+
+
+E.
+None of the above 
+
+The correct answer is option [A]
+
+
+Malaysia, Bolivia and Nigeria are noted for the production of ---------------
+
+=
+A.
+Coal  
+
+
+B.
+Natural gas  
+
+
+C.
+Petroleum 
+
+
+D.
+Tin 
+
+
+E.
+None of the above 
+
+The correct answer is [D]
+
+
+The Association that champions the cause of Nigerian students is ----------------
+
+=
+A.
+NBAS  
+
+
+B.
+N.A.N.S  
+
+
+C.
+N.A.S.U 
+
+
+D.
+L.A.S.U 
+
+
+E.
+FIFA 
+
+The correct answer is option [B]
+
+
+16 of 100
+Ph.D is the acronym for ---------------
+
+=
+A.
+Doctorate degree  
+
+
+B.
+Doctor of Psychology  
+
+
+C.
+Doctor of Philosophy 
+
+
+D.
+Doctor of Physic 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+Find the value of ( 0.75 * 0.75 * 0.75 - 0.001 ) / ( 0.75 * 0.75 - 0.075 + 0.01)
+
+=
+A.
+0.845  
+
+
+B.
+1.908  
+
+
+C.
+2.312 
+
+
+D.
+0.001 
+
+
+E.
+0 
+
+The correct answer is option [A]
+
+
+N.I.C.O.N is an acronym for ----------------
+
+=
+A.
+National Insurance Corporation of Nigeria  
+
+
+B.
+Nigerian Insurance Corporation of Nigeria  
+
+
+C.
+National Insurance company of Nigeria 
+
+
+D.
+Nigerian Insurance Company of Nigeria 
+
+
+E.
+none of the above 
+
+The correct answer is option [A]
+
+
+Amakiri does as much work in three hours as Kunle does in four hours. Kunle's son works half as fast as Kunle. If the three working together are paid N8.50k, how much should Kunle's son receive?
+
+=
+A.
+N2.00  
+
+
+B.
+N4.50  
+
+
+C.
+N3.00 
+
+
+D.
+N1.50 
+
+
+E.
+N2.20 
+
+The correct answer is option [D]
+
+
+The printing press was discovered by -----------
+
+=
+A.
+Johann Gulenberg  
+
+
+B.
+Rene Futtan  
+
+
+C.
+Michael Faraday 
+
+
+D.
+Sir James Dewer 
+
+
+E.
+John Kay 
+
+The correct answer is option [A] Rene futtan discovered stethoscope Michael Faraday discovered electricity Sir James Dewer discovered thermo flask John Kay discovered weaving machine
+
+
+Juny is now twice as old as Emi, but 6 years ago, she was 5 times as old as he was. How old is Juny now?
+
+=
+A.
+10  
+
+
+B.
+16  
+
+
+C.
+20 
+
+
+D.
+24 
+
+
+E.
+32 
+
+The correct answer is option [B]
+
+
+A rectangle is 14cm long and 10cm wide. If the length is reduced by Xcms and its width is increased also by Xcms so as to make it a square, then its area changes by :
+
+=
+A.
+4  
+
+
+B.
+144  
+
+
+C.
+12 
+
+
+D.
+2 
+
+
+E.
+1 
+
+The correct answer is option [A]
+
+
+Seyi likes 16 but not 17; she likes 400 but not 401; she likes 100 but not 103. Which does she like?
+
+=
+A.
+120  
+
+
+B.
+301  
+
+
+C.
+225 
+
+
+D.
+171 
+
+
+E.
+404 
+
+The correct answer is option [C]
+
+
+The two political parties created by the Federal Government towards 1992 transition to civil rule are ------------- and ------------
+
+=
+A.
+NPP and NPN  
+
+
+B.
+PAP and UPN  
+
+
+C.
+SDP and UNDP 
+
+
+D.
+NRC and UPN 
+
+
+E.
+SDP and NRC 
+
+The correct answer is option [E]
+
+
+A doctor earns more than a labourer because of ----------
+
+=
+A.
+price mechanism  
+
+
+B.
+international exchange  
+
+
+C.
+export 
+
+
+D.
+imports 
+
+
+E.
+social policy or value 
+
+The correct answer is option [E]
+
+
+At the recent Cinfores Mixed National Hurdle trials, ten contestants competed for the coveted BB Shield. There were numerous judges who made sure that the results were accurate, from their notes can you determine who finished second? Ivor Bignose finished before May Eye and Mick Stup whilst Leigh Vamessage was victorious over May Eye and Laura DeLand. Jack Pott was beaten by Jerry Atric, Mick Stup and Al Beback. Laura DeLand was beaten by Mick Stup, May Eye and Ivor Bignose, whereas Joe King beat Jerry Atric and Jack Pott but lost to Laura DeLand and Inga Hootz. Leigh Vamessage was beaten by Ivor Bignose and Inga Hootz. Inga Hootz was beaten by Al Beback, who, in turn, lost to Ivor Bignose, but beat Jerry Atric and Jack Pott. May Eye finished ahead of Mick Stup and Jerry Atric, who lost to Leigh Vamessage and Inga Hootz.
+
+=
+A.
+Ivor Bignose  
+
+
+B.
+Al Beback  
+
+
+C.
+Inga Hootz 
+
+
+D.
+Leigh Vamessage 
+
+
+E.
+May Eye 
+
+The correct answer is option [B] Their positions from first to last is as follows:Ivor Bignose, Al Beback, Inga Hootz, Leigh Vamessage, May Eye, Mick Stup, Laura DeLand, Joe King, Jerry Atric, Jack Pott
+
+
+In what order do the following occur from the surface to the bottom of an oil well?
+
+=
+A.
+Oil, water, gas  
+
+
+B.
+Gas, oil, water  
+
+
+C.
+Oil, gas, water 
+
+
+D.
+Gas, water, oil 
+
+
+E.
+none of the above 
+
+The correct answer is [B]
+
+
+A zookeeper counted the heads of the animals in a zoo and found it to be 80. When he counted the legs of the animals he found it to be 260. If the zoo had either pigeons or horses, how many horses were there in the zoo?
+
+=
+A.
+30  
+
+
+B.
+40  
+
+
+C.
+50 
+
+
+D.
+60 
+
+
+E.
+70 
+
+The correct answer is option [C]
+
+
+In a group of 15, 7 have studied Latin, 8 have studied Greek, and 3 have not studied either. How many of these studied both Latin and Greek
+
+=
+A.
+0  
+
+
+B.
+3  
+
+
+C.
+4 
+
+
+D.
+5 
+
+
+E.
+6 
+
+The correct answer is option [B]
+
+
+----------- invented the Microscope
+
+=
+A.
+John Walker  
+
+
+B.
+John Fitch  
+
+
+C.
+Levenhock 
+
+
+D.
+Thimonies 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+DNA is the acroynm for -------------
+
+=
+A.
+Deonucleic acid  
+
+
+B.
+Deoxygen nuclear acid  
+
+
+C.
+Deoxyribonucleic acid 
+
+
+D.
+Di-oxyribonucleic acid 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+Joseph .N. Niepe discovered photography
+
+=
+A.
+True  
+
+
+B.
+False  
+
+The correct answer is option [A]
+
+
+(1) Multiply 50 by 50 one thousand times. (2) Multiply 100 by 100 five hundred times. How many times would you have to multiply the result of (2) to get (1)?
+
+=
+A.
+One billion times (58)  
+
+
+B.
+50 to the 10th power  
+
+
+C.
+25 by 25 five hundred times 
+
+
+D.
+100 by 100 one thousand times 
+
+
+E.
+2.5 to the 25th power 
+
+The correct answer is option [C]
+
+
+Six swimmers A, B, C, D, E, F compete in a race. The outcome is as follows. i. B does not win. ii. Only two swimmers separate E & D iii. A is behind D & E iv. B is ahead of E , with one swimmer intervening v. F is ahead of D. Who stood fifth in the race ?
+
+=
+A.
+A  
+
+
+B.
+B  
+
+
+C.
+C 
+
+
+D.
+D 
+
+
+E.
+E 
+
+The correct answer is option [E]
+
+
+Six swimmers A, B, C, D, E, F compete in a race. The outcome is as follows. i. B does not win. ii. Only two swimmers separate E & D iii. A is behind D & E iv. B is ahead of E , with one swimmer intervening v. F is ahead of D. Who stood fifth in the race ?
+
+=
+A.
+A  
+
+
+B.
+B  
+
+
+C.
+C 
+
+
+D.
+D 
+
+
+E.
+E 
+
+The correct answer is option [E]
+
+
+Which of these would you use to make a hole in a piece of wood?
+
+=
+A.
+plane  
+
+
+B.
+saw  
+
+
+C.
+drill 
+
+
+D.
+nail 
+
+
+E.
+hammer 
+
+The correct answer is option [C]
+
+
+M.K.O Abiola died on ---------------
+
+=
+A.
+8th August 1997  
+
+
+B.
+8th August 1998  
+
+
+C.
+7th July 1997 
+
+
+D.
+7th July 1998 
+
+
+E.
+none of the above 
+
+The correct answer is option [D]
+
+
+If a certain chemical costs N50 for 30gallons, how many gallons of the chemical can be purchased for N625?
+
+=
+A.
+12.5  
+
+
+B.
+24  
+
+
+C.
+325 
+
+
+D.
+375 
+
+
+E.
+425 
+
+The correct answer is [D]
+
+
+
+Arrange the following numbers in ascending order of magnitude; 8, 9, 4, 6, 2, 4, 7, 5, 15, 12
+
+=
+A.
+15, 12, 9, 8, 7, 6, 5, 4, 2  
+
+
+B.
+2, 4, 4, 5, 6, 7, 8  
+
+
+C.
+2, 4, 4, 5, 6, 7, 8, 9, 12, 15 
+
+
+D.
+15, 12, 9, 8, 2, 4, 4, 5, 
+
+
+E.
+None of the above 
+
+The correct answer is option [C]
+
+
+Two people start at the same point and walk in opposite directions. If one walks at the rate of 4 miles per hour and the other walks at the rate of 6 miles per hour, in how many hours will they be 40 miles apart.
+
+=
+A.
+1  
+
+
+B.
+2  
+
+
+C.
+3 
+
+
+D.
+4 
+
+
+E.
+5 
+
+The correct answer is option [D]
+Quantitative Reasoning
+
+
+The first all African games was held in 1965 in ------
+
+=
+A.
+Egypt  
+
+
+B.
+Cameroon  
+
+
+C.
+Ghana 
+
+
+D.
+Nigeria 
+
+
+E.
+None of the above 
+
+The correct answer is option [A]
+
+
+A soft black opaque carbonaceous rock that can be used to make pencils is -----------------
+
+=
+A.
+Lignite  
+
+
+B.
+Graphite  
+
+
+C.
+Lead 
+
+
+D.
+Coal 
+
+
+E.
+None of the above 
+
+The correct answer is [B]
+
+
+he first people to visit the moon are -----------------
+
+=
+A.
+Americans  
+
+
+B.
+Russians  
+
+
+C.
+French 
+
+
+D.
+Indians 
+
+
+E.
+None of the above 
+
+The correct answer is [B]
+
+
+Which of the following is the greatest?
+
+=
+A.
+40% of 30  
+
+
+B.
+3/5 of 25  
+
+
+C.
+6.5% of 200 
+
+
+D.
+1/2 of 34 
+
+
+E.
+All of the above 
+
+The correct answer is option [D]
+
+
+Only one other word can be made from all the letters of INSATIABLE. Can you find it?
+
+=
+A.
+Satisfy  
+
+
+B.
+Banalities  
+
+
+C.
+Table 
+
+
+D.
+Insincere 
+
+
+E.
+None of the above 
+
+The correct answer is option [B]
+
+
+The average temperature on Wednesday, Thursday and Friday was 250. The average temperature on Thursday, Friday and Saturday was 240. If the temperature on Saturday was 270, what was the temperature on Wednesday?
+
+=
+A.
+240  
+
+
+B.
+210  
+
+
+C.
+270 
+
+
+D.
+300 
+
+
+E.
+304 
+
+The correct answer is option [D]
+
+
+Onitsha in Anambra State came into being because of the presence of ---------------
+
+=
+A.
+River Benue  
+
+
+B.
+River Ogun  
+
+
+C.
+Nile River 
+
+
+D.
+River Niger 
+
+
+E.
+Volta River 
+
+The correct answer is option [D]
+
+
+One Lunar Month equals ---------------
+
+=
+A.
+4 weeks  
+
+
+B.
+30 days  
+
+
+C.
+32 days 
+
+
+D.
+29 days 
+
+
+E.
+none of the above 
+
+The correct answer is option [A]
+
+
+In my money box I found $36.80 made up of equal numbers of quarters, dimes and nickels. How many of each coin did I find?
+
+=
+A.
+88  
+
+
+B.
+89  
+
+
+C.
+90 
+
+
+D.
+91 
+
+
+E.
+92 
+
+The correct answer is option [E]
+
+
+The first country to win the world cup is --------------
+
+=
+A.
+Brazil  
+
+
+B.
+Italy  
+
+
+C.
+West Germany 
+
+
+D.
+Uruguay 
+
+
+E.
+Peru 
+
+The correct answer is option [D]
+
+
+Which of the following contributes the least to the Nigerian economy -----------
+
+=
+A.
+Agriculture  
+
+
+B.
+Animal rearing  
+
+
+C.
+Manufacturing 
+
+
+D.
+Mining 
+
+
+E.
+Tourism 
+
+The correct answer is option [E]
+
+
+A bank department employs 2800 people of whom 70 percent are cash officers and one-fourth are marketing officers. The number of employees in the bank who are neither cash officers nor marketing officers is
+
+=
+A.
+235  
+
+
+B.
+250  
+
+
+C.
+140 
+
+
+D.
+155 
+
+
+E.
+160 
+
+The correct answer is option [C]
+
+
+Ajaokuta in Kwara State is famous for -----------
+
+=
+A.
+Salt  
+
+
+B.
+Petroleum  
+
+
+C.
+Cotton Steel 
+
+
+D.
+Coal and Tin 
+
+
+E.
+Iron and Steel 
+
+The correct answer is option [E]
+
+
+
+2 hours after a freight train leaves Delhi a passenger train leaves the same station traveling in the same direction at an average speed of 16 km/hr. After traveling 4 hrs the passenger train overtakes the freight train. The average speed of the freight train was?
+
+=
+A.
+30  
+
+
+B.
+40  
+
+
+C.
+58 
+
+
+D.
+60 
+
+
+E.
+72 
+
+The correct answer is option [B]
+
+
+
+Water boils at ---------- degrees fahrenheit
+
+=
+A.
+212o F  
+
+
+B.
+194o F  
+
+
+C.
+222o F 
+
+
+D.
+294o F 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+The world leading producer of Cocoa is -------------
+
+=
+A.
+Ecuador  
+
+
+B.
+Ghana  
+
+
+C.
+Brazil 
+
+
+D.
+Nigeria 
+
+
+E.
+None of the above 
+
+The correct answer is [B]
+
+
+The average age of a group of 12 students is 20years. If 4 more students join the group, the average age increases by 1 year. The average age of the new students is?
+
+=
+A.
+22  
+
+
+B.
+23  
+
+
+C.
+24 
+
+
+D.
+26 
+
+
+E.
+28 
+
+The correct answer is option [C]
+
+
+(1/4)3 + (3/4)3 + 3(1/4)(3/4)(1/4 + 3/4) =?
+
+=
+A.
+1/64  
+
+
+B.
+27/64  
+
+
+C.
+0 
+
+
+D.
+1 
+
+
+E.
+-1 
+
+The correct answer is option [D]
+
+
+1/3 of girls and 1/2 of boys go to the canteen .What factor and total number of classmates go to the canteen.
+
+=
+A.
+1/3  
+
+
+B.
+1/3  
+
+
+C.
+1/5 
+
+
+D.
+1/6 
+
+
+E.
+Cannot be determined 
+
+The correct answer is option [A]
+
+
+There are ---------- seconds in sixty (60) days
+
+=
+A.
+5,183,600 seconds  
+
+
+B.
+5,186,000  
+
+
+C.
+5,184,000 
+
+
+D.
+5,186,006 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+What fruit has its seeds on the outside?
+
+=
+A.
+Peach  
+
+
+B.
+Grapes  
+
+
+C.
+Strawberry 
+
+
+D.
+Sour sop 
+
+
+E.
+None of the above 
+
+The correct answer is option [C]
+
+
+Three fat ladies stood under an umbrella but none of them got wet. Why didn't any of them get wet?
+
+=
+A.
+They expanded the umbrella  
+
+
+B.
+It was not raining  
+
+
+C.
+The three ladies went under a shade 
+
+
+D.
+Two ladies went under a shade 
+
+
+E.
+Only one lady stood under the umbrella.  
+
+The correct answer is option [B]
+
+
+Three fat ladies stood under an umbrella but none of them got wet. Why didn't any of them get wet?
+
+=
+A.
+They expanded the umbrella  
+
+
+B.
+It was not raining  
+
+
+C.
+The three ladies went under a shade 
+
+
+D.
+Two ladies went under a shade 
+
+
+E.
+Only one lady stood under the umbrella.  
+
+The correct answer is option [B]
+
+
+If during a one-year period, the dividend paid on a certain share of stock was equal to 8 percent of the par value of the stock, then the dividend paid was fraction of the par value of the stock?
+
+=
+A.
+1/50  
+
+
+B.
+1/25  
+
+
+C.
+2/25 
+
+
+D.
+2/50 
+
+
+E.
+2/100 
+
+The correct answer is option [C]
+
+
+At a certain ice cream parlor, customers can choose among five different ice cream flavors and can choose either a sugar cone or a waffle cone. Considering both ice cream flavor and cone type, how many distinct triple-scoop cones with three different ice
+
+=
+A.
+16  
+
+
+B.
+14  
+
+
+C.
+20 
+
+
+D.
+24 
+
+
+E.
+27 
+
+The correct answer is option [C]
+
+
+The Federal capital 'Abuja' shares boundaries with the following four States --------------
+
+=
+A.
+Benue, Kwara, Niger and Kaduna  
+
+
+B.
+Kano, Kaduna, Niger and Kwara  
+
+
+C.
+Nasarawa, Kogi, Niger and Kaduna 
+
+
+D.
+Gombe, Bauchi, Kwara and Niger 
+
+
+E.
+None of the above 
+
+The correct answer is option [C]
+
+
+Find a number whose double exceeds its half by exactly 99.
+
+=
+A.
+33  
+
+
+B.
+44  
+
+
+C.
+55 
+
+
+D.
+66 
+
+
+E.
+77 
+
+The correct answer is option [D]
+
+
+How many of each kind of animal did Moses take on the ark?
+
+=
+A.
+None  
+
+
+B.
+3  
+
+
+C.
+4 
+
+
+D.
+5 
+
+
+E.
+2 
+
+The correct answer is option [E] Moses had nothing to do with the ark, it was Noah.
+
+
+
+For a motorist there are three ways going from City A to City C. By way of bridge the distance is 20 miles and toll is $0.75. A tunnel between the two cities is a distance of 10 miles and toll is $1.00 for the vehicle and driver and $0.10 for each passenger. A two-lane highway without toll goes east for 30 miles to city B and then 20 miles in a northwest direction to City C. Which is the shortest route from B to C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The correct answer is option [D]
+
+
+Complete the sequence in the series: 1, 3, 6, 10, 15, 21, 28, ____
+
+=
+A.
+30  
+
+
+B.
+36  
+
+
+C.
+42 
+
+
+D.
+48 
+
+
+E.
+54 
+
+The correct answer is option [B] 1; 1 + 2 = 3; 1 + 2 + 3 = 6; 1 + 2 + 3 + 4 = 10; 1 + 2 + 3 + 4 + 5 = 15; 1 + 2 + 3 + 4 + 5 + 6 = 21; 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28; 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = 36; The nth term in the sequence is given by n (n + 1)/2, and the numbers are often referred to as triangular numbers.
+
+
+The branch of medicine that deals with children is called pediatrics and the branch of medicine that deals with aging is called geriatrics. What is the branch of medicine called that is concerned with obesity?
+
+=
+A.
+physiatrics  
+
+
+B.
+moriatrics  
+
+
+C.
+bariatrics 
+
+
+D.
+vuliatrics 
+
+
+E.
+paniatrics 
+
+The correct answer is option [C]
+
+
+
+If a circle is one, how many is an octagon?
+
+=
+A.
+2  
+
+
+B.
+4  
+
+
+C.
+6 
+
+
+D.
+8 
+
+
+E.
+12 
+
+The correct answer is option [D] An octagon has 8 sides
+
+
+The currency used in Isreal is -------------
+
+=
+A.
+Lira  
+
+
+B.
+Shekel  
+
+
+C.
+Dinar 
+
+
+D.
+Rupee 
+
+
+E.
+none of the above 
+
+The correct answer is option [B]
+
+
+Which three-letter word can be placed in front of the following words to make a new word: LIGHT, BREAK, TIME
+
+=
+A.
+BOX  
+
+
+B.
+SAP  
+
+
+C.
+DAY 
+
+
+D.
+BED 
+
+
+E.
+PAN 
+
+The correct answer is option [C]
+
+
+You're driving your car on the highway at 75 mph, and you notice a sign that says you are 75 miles from your destination. So if you continue driving at that speed, you'd be there in an hour. When you have driven one mile and you are now 74 miles from your destination, you drop your speed down to 74 mph. So, you drive that first mile at 75 mph; when you are 74 miles from your destination, you drop your speed down to 74 mph; and then 73 mph, 72 mph... and so on. Until, finally, you get down to 1 mile from your destination and you're driving at one mile per hour. If you do this, how long is it going to take you to travel the entire 75 miles, rounding it to the nearest hour?
+
+=
+A.
+3 hours  
+
+
+B.
+4 hours  
+
+
+C.
+5 hours 
+
+
+D.
+6 hours 
+
+
+E.
+7 hours 
+
+The correct answer is option [C]
+
+
+Assuming you have enough coins of 1, 5, 10, 25 and 50 cents, how many ways are there to make change for a dollar?
+
+=
+A.
+202  
+
+
+B.
+229  
+
+
+C.
+292 
+
+
+D.
+922 
+
+
+E.
+200 
+
+The correct answer is option [C]
+
+
+If I have:a normal coin with a heads and tails; a 6-sided die; and a bag containing 4 blue and 2 red marbles, what is the probability of me flipping a heads, rolling a 4, and picking out a red marble?
+
+=
+A.
+0.027  
+
+
+B.
+0.036  
+
+
+C.
+36 
+
+
+D.
+27 
+
+
+E.
+None of the above 
+
+The correct answer is option [A] Answer Probability of flipping a heads: 1/2 Probability of rolling a 4: 1/6 Probability of selecting a red marble: 2/6 Then multiply the results, so: 1/2 x 1/6 x 2/6= 0.027 (to 3 decimal places
+
+
+Can you replace the question marks with maths symbols (+-/x) and make the equation correct: (7 ? 1) ? (5 ? 2) ? (2 ? 3) = 20
+
+=
+A.
++  
+
+
+B.
+-  
+
+
+C.
+x 
+
+
+D.
+/ 
+
+
+E.
+None of the above 
+
+The correct answer is option [A]
+
+
+A person that represents the interest of his/her country abroad is known as ----------------
+
+=
+A.
+a Minister  
+
+
+B.
+a Commissioner  
+
+
+C.
+an Ambassador 
+
+
+D.
+a Journalist 
+
+
+E.
+None of the above 
+
+The correct answer is [C]
+
+
+There are --------- continents in the world
+
+=
+A.
+5  
+
+
+B.
+6  
+
+
+C.
+7 
+
+
+D.
+8 
+
+
+E.
+none of the above 
+
+The correct answer is option [C] The continents are; Africa, Antartica, Asia, Austra/Asia, Europe, North America and South America
+
+
+The dentition of an adult is made up of the following -------------
+
+=
+A.
+incisors, canines, incupids and premolars  
+
+
+B.
+incisors, canines, dentine and pulp  
+
+
+C.
+incisors, canines, bicuspids and molars 
+
+
+D.
+incisors, canines. molars and enamel 
+
+
+E.
+none of the following 
+
+The correct answer is option [C]
+
+
+A person who studies stars is called ---------------
+
+=
+A.
+an artist  
+
+
+B.
+an astrologer  
+
+
+C.
+an ironmonger 
+
+
+D.
+a geologist 
+
+
+E.
+none of the above 
+
+The correct answer is option [B]
+
+
+bat, sheep, _______ , elephant
+
+=
+A.
+sqirrel  
+
+
+B.
+rat  
+
+
+C.
+blue whale 
+
+
+D.
+porcupine 
+
+
+E.
+horse 
+
+The correct answer is option [E] Here mammals are arranged according to size from small to big. A horse is bigger than a sheep and smaller than an elephant. A squirrel and a rat are too small and a blue whale is too big. In fact, the blue whale is the largest mammal.
+
+
+Albert is a keen dog admirer and over the years has had a number of dogs. He has had an Alsatian, a Dalmatian, a Poodle and a Great Dane, but not necessarily in that order. Albert had Jamie first. The Dalmatian was an adored pet before the Great Dane. Sammy the Alsatian, was the second dog Albert loved. Whitney was housed before the Poodle and Jimmy was not a Great Dane. Can you tell each of the dogs' name and the order in which Albert had them?
+
+=
+A.
+Albert had Jimmy the Dalmatian first, then Sammy the Alsatian, Whitney the Great Dane and finally, Jamie the Poodle.  
+
+
+B.
+Albert had Sammy the Poodle first, then Jamie the Dalmatian, Whitney the Great Dane and finally, Jimmy the Poodle.  
+
+
+C.
+Albert had Jamie the Dalmatian first, then Jimmy the Alsatian, Whitney the Great Dane and finally, Sammy the Poodle.  
+
+
+D.
+Albert had Jamie the Dalmatian first, then Sammy the Alsatian, Whitney the Great Dane and finally, Jimmy the Poodle.  
+
+
+E.
+Albert had Whitney the Dane first, then Sammy the Alsatian, Jamie the Great Dalmatian and finally, Jimmy the Poodle.  
+
+The correct answer is option [D]
+
+
+The first or main oil refinery in Nigeria is in ---------
+
+=
+A.
+Kaduna  
+
+
+B.
+Port Harcourt  
+
+
+C.
+Aba 
+
+
+D.
+Abuja 
+
+
+E.
+Ibadan 
+
+The correct answer is option [B]
+Current Affairs
+
+
+The average of 5 quantities is 6. The average of 3 of them is 8. What is the average of the remaining two numbers?
+
+=
+A.
+6.5  
+
+
+B.
+4  
+
+
+C.
+3 
+
+
+D.
+3.5 
+
+
+E.
+2.5 
+
+The correct answer is option [C]
+
+
+The average of 5 quantities is 6. The average of 3 of them is 8. What is the average of the remaining two numbers?
+
+=
+A.
+6.5  
+
+
+B.
+4  
+
+
+C.
+3 
+
+
+D.
+3.5 
+
+
+E.
+2.5 
+
+The correct answer is option [C]
+
+
+Petroleum is to Nigeria as --------- is to South Africa
+
+=
+A.
+Coal  
+
+
+B.
+Tin  
+
+
+C.
+Silver 
+
+
+D.
+Gold 
+
+
+E.
+Petrol 
+
+The correct answer is option [D]
+
+
+Tammy bought excercise books at 5,000 Naira a gross. What is the price of one excercise book?
+
+=
+A.
+36.72  
+
+
+B.
+45.72  
+
+
+C.
+41.72 
+
+
+D.
+34.72 
+
+
+E.
+Insufficient data 
+
+The correct answer is option [D]
+
+
+
+The sentence " she said that she was leaving" can be written in a direct quotation form as ------------
+
+=
+A.
+she said' I am leaving'  
+
+
+B.
+she said; I am leaving  
+
+
+C.
+she said, "I am leaving" 
+
+
+D.
+"she said" i am leaving 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+One Julian year equals --------------
+
+=
+A.
+366 days 6 hours  
+
+
+B.
+363 days 6 hours  
+
+
+C.
+365 days 6 hours 
+
+
+D.
+360 days 6 hours 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+One Julian year equals --------------
+
+=
+A.
+366 days 6 hours  
+
+
+B.
+363 days 6 hours  
+
+
+C.
+365 days 6 hours 
+
+
+D.
+360 days 6 hours 
+
+
+E.
+none of the above 
+
+The correct answer is option [C]
+
+
+Three piles of chips- (pile I consists one chip, pile II consists of chips, and pile III consists of three chips) are to be used in a game played by Diki and Priscilla.The game requires: a)That each player in turn take only one chip or all chips from just one pile. b)That the player who has to take the last chip loses. c)That Diki have her turn. From which pile should Diki draw in order to win?
+
+=
+A.
+Pile I  
+
+
+B.
+Pile II  
+
+
+C.
+Pile III 
+
+
+D.
+Any of the piles 
+
+
+E.
+Cannot be determined 
+
+The correct answer is option [D]
+
+
+Which is the odd one out?
+
+=
+A.
+Table  
+
+
+B.
+Wood  
+
+
+C.
+Chair 
+
+
+D.
+Cupboard 
+
+
+E.
+Cabinet 
+
+The correct answer is option [B] Wood is the odd one out because it is a material used to make furniture: Table, chair and cupboard are pieces of furniture.
+
+
+---------- is the machine used by blind people for writing
+
+=
+A.
+Braille  
+
+
+B.
+brail  
+
+
+C.
+Braile 
+
+
+D.
+Baille 
+
+
+E.
+None of the above 
+
+The correct answer is option [A]
+
+
+Lovena sells to Onyeka at a gain of 20%; Onyeka sells to Belema at the price Lovena paid. What does Onyeka lose as a percentage?
+
+=
+A.
+20.67%  
+
+
+B.
+17.67%  
+
+
+C.
+16.67% 
+
+
+D.
+15.67% 
+
+
+E.
+14.57% 
+
+The correct answer is option [C]
+
+
+The drive from Oakland to Pinewood was a tricky one. I covered the uphill distance of 55 miles at 35 miles per hour. The return journey from Pinewood to Oakland was downhill, and I managed to drive at 63 miles per hour. What was my average speed for the entire journey?
+
+=
+A.
+60  
+
+
+B.
+55  
+
+
+C.
+50 
+
+
+D.
+45 
+
+
+E.
+40 
+
+The correct answer is option [D] Solution: It it important to note that Average speed = Total distance / Total time. Total distance = 2 x 55 miles. Time for uphill journey (from Oakland to Pinewood) = 55 / 35 hours. Time for downhill journey (from Pinewood to Oakland) = 55 / 63 hours. Total time = (55 / 35) + (55 / 63) = 2 x 55 / 45 hours. Average speed = Total distance / Total time = 45 miles per hour. 
+
+
+A snake slides through a long cylindrical hole in the ground at 6 centimetres per second. The hole is 7.5 metres in length. The snake takes 14 seconds to enter the hole. What is the length in centimetres of the snake ?
+
+=
+A.
+125cm  
+
+
+B.
+100cm  
+
+
+C.
+90cm 
+
+
+D.
+84cm 
+
+
+E.
+None of the above 
+
+The correct answer is option [D] Distance = Speed x Time. (a) The snake has entered the hole when its tail just comes into the hole. It is given that 14 seconds elapse from the time the snake's head enters the hole till its tail enters. Thus, Length of the snake = Distance traveled in 14 seconds = (6 cm/s) x (14 s) = 84 centimetres
+
+
+What is the smallest number which when divided by 10 leaves a remainder of 9, when divided by 9 leaves a remainder of 8, when divided by 8 leaves a remainder of 7, when divided by 7 leaves a remainder of 6, and so on until when divided by 2 leaves a remainder of 1?
+
+=
+A.
+2,131  
+
+
+B.
+2,337  
+
+
+C.
+2,519 
+
+
+D.
+2,477 
+
+
+E.
+2,517 
+
+The correct answer is option [C]
+
+
+The same word can be added to the end of LIFT and the beginning of MAN to form two other English word.
+
+=
+A.
+CLOSE  
+
+
+B.
+BANK  
+
+
+C.
+GATE 
+
+
+D.
+PLAY 
+
+
+E.
+DOWN 
+
+The correct answer is option [C] UBE 6
+
+
+The colours that make up the spectrum are ----------
+
+=
+A.
+red, orange, maroon, green and blue  
+
+
+B.
+orange, yellow, indigo, violet, white,blue and brown  
+
+
+C.
+violet, indigo, blue, green and pink 
+
+
+D.
+red, orange, yellow, green, blue, indigo and violet 
+
+
+E.
+none of the above 
+
+The correct answer is option [D]
+
+
+A garrison of 3300 men has provisions for 32 days when given at a rate of 850 grams per head. At the end of 7 days reinforcement arrives and it was found that now the provisions will last 8 days less when given at the rate of 825 grams per head. How many more men can it feed?
+
+=
+A.
+1500 men  
+
+
+B.
+1600 men.  
+
+
+C.
+1700 men. 
+
+
+D.
+1900 men. 
+
+
+E.
+2000 men. 
+
+The correct answer is option [C]
+
+
+A boutique in Port Harcourt decided to calculate the percentage of customers who purchase hats. If 40 of the store customers decide to purchase items and of those customers 15 percent purchased hats, what is the percentage of hat customers?
+
+=
+A.
+4%  
+
+
+B.
+6%  
+
+
+C.
+15% 
+
+
+D.
+24% 
+
+
+E.
+55% 
+
+The correct answer is option [B]
+
+
+
